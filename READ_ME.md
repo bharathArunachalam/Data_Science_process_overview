@@ -1,7 +1,7 @@
 # Data_Science_process_overview
 A beginner friendly understanding of Data Science process.
 
-# Consider the acronym for data science process: 'BAR CUP MED F'
+# Consider the acronym for data science process: 'BAR CPU MED F'
 
 B- Business Understanding - Come up with questions one wants to answer.
 
@@ -12,9 +12,10 @@ R- Requirements - Understand what kind of data points might be needed.
 
 C- Collecting data - Find out sources and collect the required data.
 
+P- Preparing data - Find out if missing data is to be replaced, if feature engineering is needed, make specific data types as per need.
+
 U- Understand data - Do some statistical analysis or some data visualisation to know more about the dataset.
 
-P- Preparing data - Find out if missing data is to be replaced, if feature engineering is needed, make specific data types as per need.
 
 
 M- Modelling - Understand patterns in the dataset using Machine Learning or Deep Learning on a test data.
